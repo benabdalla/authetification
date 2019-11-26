@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Authetification</string>
+    <string name="email">Email</string>
+    <string name="nom">Nom</string>
+    <string name="bt1">Se Connecter</string>
+    <string name="bt2">Cree un compte</string>
+    <string name="email2">Email :</string>
+    <string name="password">password</string>
+    <string name="recemail">user</string>
+    <string name="recpass">pass</string>
+</resources>
